@@ -8,5 +8,5 @@
 
  <br>
 
- # [Real-Time Power BI Dashboard](https://github.com/tamasmocsanyi/azure-streaming-project)
+# [Real-Time Power BI Dashboard](https://github.com/tamasmocsanyi/azure-streaming-project)
  - Integrating Azure Stream Analytics and Power BI 
