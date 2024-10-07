@@ -14,3 +14,8 @@
 <br>
 
 # [MSSQL and Power BI Project](https://github.com/tamasmocsanyi/mssql-powerbi)
+
+<br>
+
+# [Real-Time Data Pipeline](https://github.com/tamasmocsanyi/kafka-spark-docker)
+- Integrating Airflow, Kafka, Spark and Docker
